@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **another language like ThreeJS, Vite and 3D librairies**
 
-- 👨‍💻 All of my projects are available at [faustoswald.netlify.com](faustoswald.netlify.com)
+- 👨‍💻 All of my projects are available at [faustoswald.webflow.io](faustoswald.webflow.io)
 
 - 📝 I regularly write articles on [blogfaust.vercel.app](blogfaust.vercel.app)
 
