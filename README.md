@@ -1,54 +1,40 @@
-# Salut, moi c'est Faust Oswald 👋
+![Header](./nom-de-ton-image.png)
 
-![Header](https://your-image-url.com/header-image.png)
+<h1 align="center">Salut, moi c'est Faust Oswald 👋</h1>
+<h3 align="center">Développeur Fullstack passionné et créatif polyvalent</h3>
 
-Je suis un développeur Fullstack passionné, étudiant en dernière année à Epitech Bénin. J'ai fondé Oasis Connect, un hub de créatifs, et je travaille actuellement sur des projets SaaS innovants. Mon objectif est de devenir le meilleur créatif de ma génération et de poursuivre mes études à Harvard.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oswald-faust&label=Visiteurs&color=0e75b6&style=flat" alt="oswald-faust" /> </p>
 
-## 🚀 Projets en cours
+- 🔭 Je travaille actuellement sur **Bridge.Platforms**
 
-- **Bridge.Platforms** : Une plateforme révolutionnaire pour connecter les créatifs du monde entier.
-- **Hello SaaS** : Un service innovant visant à simplifier la gestion des tâches quotidiennes.
+- 🌱 J'apprends actuellement **ThreeJS, Vite et des bibliothèques 3D**
 
-## 🌱 Compétences techniques
+- 👨‍💻 Tous mes projets sont disponibles sur [faustoswald.webflow.io](https://faustoswald.webflow.io)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+- 📝 J'écris régulièrement des articles sur [blogfaust.vercel.app](https://blogfaust.vercel.app)
 
-## 📚 Apprentissage en cours
+- 💬 N'hésite pas à me parler de **Figma, ReactJS et aussi de projets no-code ! Je suis prêt à discuter !**
 
-Je me forme actuellement sur **Three.js**, **Vite** et d'autres bibliothèques 3D pour enrichir mes compétences en développement front-end.
+- 📫 Comment me contacter **faust.troukou@epitech.eu**
 
-## 📝 Derniers articles de blog
+### Connecte-toi avec moi :
 
-<!-- BLOG-POST-LIST:START -->
-- [Titre de l'article 1](https://blogfaust.vercel.app/article-1)
-- [Titre de l'article 2](https://blogfaust.vercel.app/article-2)
-- [Titre de l'article 3](https://blogfaust.vercel.app/article-3)
-<!-- BLOG-POST-LIST:END -->
+<p align="left">
+<a href="https://twitter.com/oswaldfaust2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oswaldfaust2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faust-oswald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faust-oswald" height="30" width="40" /></a>
+<a href="https://fb.com/faust.oswald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faust.oswald" height="30" width="40" /></a>
+<a href="https://instagram.com/faustoswald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faustoswald" height="30" width="40" /></a>
+<a href="https://medium.com/@faustoswald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@faustoswald" height="30" width="40" /></a>
+</p>
 
-## 📈 Statistiques GitHub
+### Langages et Outils :
 
-![Faust's GitHub stats](https://github-readme-stats.vercel.app/api?username=oswald-faust&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oswald-faust&layout=compact&theme=radical)
+<p align="left">
+  <!-- Ajoute ici les icônes des technologies que tu maîtrises -->
+</p>
 
-## 🎵 Musique en cours d'écoute
+![Les statistiques de GitHub de Faust](https://github-readme-stats.vercel.app/api?username=oswald-faust&show_icons=true&theme=radical)
 
-![Spotify](https://novatorem.vercel.app/api/spotify)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=oswald-faust&layout=compact&theme=radical)
 
-## 📫 Me contacter
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oswaldfaust2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faust-oswald)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faustoswald)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faustoswald)
-
----
-
-*💡 "L'innovation distingue entre un leader et un suiveur." – Steve Jobs*
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=oswald-faust&label=Profile%20views&color=0e75b6&style=flat)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=oswald-faust&theme=radical)
