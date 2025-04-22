@@ -2,11 +2,10 @@
 
 ![Header](https://your-image-url.com/header-image.png)
 
-Je suis un développeur Fullstack passionné, étudiant en dernière année à Epitech Bénin. J'ai fondé Oasis Connect, un hub de créatifs, et je travaille actuellement sur des projets SaaS innovants. Mon objectif est de devenir le meilleur créatif de ma génération et de poursuivre mes études à Harvard.
+Je suis un développeur Fullstack passionné, étudiant en dernière année à Epitech Bénin. J'ai fondé Oasis Connect, un hub de créatifs, et je travaille actuellement sur des projets SaaS innovants.
 
 ## 🚀 Projets en cours
 
-- **Bridge.Platforms** : Une plateforme révolutionnaire pour connecter les créatifs du monde entier.
 - **Hello SaaS** : Un service innovant visant à simplifier la gestion des tâches quotidiennes.
 
 ## 🌱 Compétences techniques
