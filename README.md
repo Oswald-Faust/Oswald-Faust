@@ -4,10 +4,6 @@
 
 Je suis un développeur Fullstack passionné, étudiant en dernière année à Epitech Bénin. J'ai fondé Oasis Connect, un hub de créatifs, et je travaille actuellement sur des projets SaaS innovants.
 
-## 🚀 Projets en cours
-
-- **Hello SaaS** : Un service innovant visant à simplifier la gestion des tâches quotidiennes.
-
 ## 🌱 Compétences techniques
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -16,22 +12,6 @@ Je suis un développeur Fullstack passionné, étudiant en dernière année à E
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-## 📚 Apprentissage en cours
-
-Je me forme actuellement sur **Three.js**, **Vite** et d'autres bibliothèques 3D pour enrichir mes compétences en développement front-end.
-
-## 📝 Derniers articles de blog
-
-<!-- BLOG-POST-LIST:START -->
-- [Titre de l'article 1](https://blogfaust.vercel.app/article-1)
-- [Titre de l'article 2](https://blogfaust.vercel.app/article-2)
-- [Titre de l'article 3](https://blogfaust.vercel.app/article-3)
-<!-- BLOG-POST-LIST:END -->
-
-## 📈 Statistiques GitHub
-
-![Faust's GitHub stats](https://github-readme-stats.vercel.app/api?username=oswald-faust&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oswald-faust&layout=compact&theme=radical)
 
 ## 🎵 Musique en cours d'écoute
 
