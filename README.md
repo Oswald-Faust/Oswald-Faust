@@ -1,40 +1,38 @@
-# Salut, moi c'est Faust Oswald 👋
+# Hey, I'm Faust Oswald 👋
 
 ![Header](https://v3b.fal.media/files/b/0aa699fe/WXavlugQFHmwSxn1a7-2h_bFSXraV2.png)
 
-Je suis **Faust Oswald**, *Fullstack/Product Engineer* basé. Développeur passionné,  après un passage à **Epitech Bénin**, et serial startup builder. Je construis des produits  du concept à la monetisation : **VERSUS**, **ONLIST**, **StableVPS**, **SHEMA** et bien plus.
+I'm **Faust Oswald**, a *Fullstack/Product Engineer* based in Cotonou, Benin. Passionate developer, **Epitech Bénin** graduate, and serial startup builder. I build digital products from concept to monetization: **VERSUS**, **ONLIST**, **StableVPS**, **SHEMA**, and more.
 
-> "L'innovation distingue entre un leader et un suiveur." – Steve Jobs
-
----
-
-## 🎯 Qui je suis
-
-- 🇧🇯 Béninois, basé à Cotonou
-- 🎓 Diplomé en innovation
-- 💼 Fullstack &amp; Product Engineer : TS/JS, React/Next/Tailwind, Node/Express/Mongo, React Native/Expo/EAS
-- 🛠 Aussi : C/C++, Python, Docker, infra web/VPS
-- 🚀 Projects : VERSUS, ONLIST, StableVPS, SHEMA, Lydia/Hello AI
-- 🎵 Creative technologist — contenu tech/startup/IA cinématique
-- 🌐 [faustoswald.com](faustoswald.com) — mon site principal
-
-**Contacter :** `faustfrank370@gmail.com` · WhatsApp `+229 98 36 77 53`
+> "Innovation distinguishes between a leader and a follower." – Steve Jobs
 
 ---
 
-## 🏗 Ce que je build
+## 🎯 Who I am
 
+- 🇧🇯 Beninese, based in Cotonou
+- 🎓 Innovation graduate
+- 💼 Fullstack & Product Engineer: TS/JS, React/Next/Tailwind, Node/Express/Mongo, React Native/Expo/EAS
+- 🛠 Also: C/C++, Python, Docker, web infra/VPS
+- 🚀 Projects: VERSUS, ONLIST, StableVPS, SHEMA, Lydia/Hello AI
+- 🎵 Creative technologist — cinematic tech/startup/AI content
+- 🌐 [faustoswald.com](https://faustoswald.com) — my main site
 
-| Domain        | Stack                    | Status           |
-| ------------- | ------------------------ | ---------------- |
-| **VERSUS**    | React Native - ExpressJS | En finalisation  |
-| **StableVPS** | infra/VPS - NextJS       | Finalisé         |
-| **SHEMA**     | Shopify - React Native   | En développement |
-
+**Contact:** `faustfrank370@gmail.com` · WhatsApp `+229 98 36 77 53`
 
 ---
 
-## 🧰 Stack technique
+## 🏗 What I'm building
+
+| Project      | Stack                   | Status              |
+| ------------ | ----------------------- | ------------------- |
+| **VERSUS**   | React Native - ExpressJS | Finalizing          |
+| **StableVPS** | infra/VPS - NextJS      | ✅ Shipped          |
+| **SHEMA**    | Shopify - React Native   | In development      |
+
+---
+
+## 🧰 Tech stack
 
 <div align="center">
 
@@ -59,15 +57,13 @@ Je suis **Faust Oswald**, *Fullstack/Product Engineer* basé. Développeur passi
 
 ---
 
----
+## 📫 Find me
 
-## 📫 Me trouver
-
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oswaldfaust2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faust-oswald)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faustoswald)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faustoswald)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/22998367753)
 
 ---
 
@@ -77,16 +73,16 @@ Je suis **Faust Oswald**, *Fullstack/Product Engineer* basé. Développeur passi
 
 ---
 
-## 🧠 Ma philosophie
+## 🧠 My philosophy
 
-- **Build → Ship → Monétiser → Audience → Entreprises → Mobilité**
-- Cash-flow, excellence technique, ownership/equity/IP, revenus récurrents, distribution, portfolio
-- Analyser : problème / client / concurrence / distribution / prix / légal / marges / MVP / défensibilité → chiffrer → BUILD/TEST FIRST → PIVOT/SKIP
-- Interface : sombre premium iOS/glass
-- Modèles IA : open source permissifs (Apache 2.0 / MIT), famille Qwen favorite
+- **Build → Ship → Monetize → Audience → Companies → Mobility**
+- Cash-flow, technical excellence, ownership/equity/IP, recurring revenue, distribution, portfolio
+- Analyze: problem / customer / competition / distribution / pricing / legal / margins / MVP / defensibility → quantify → BUILD/TEST FIRST → PIVOT/SKIP
+- UI: dark premium iOS/glass
+- AI models: permissively open source (Apache 2.0 / MIT), Qwen family favorite
 
 ---
 
-*Ce README est maintenu par Faust Oswald. Dernière mise à jour : août 2026.*
+*This README is maintained by Faust Oswald. Last updated: August 2026.*
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=400&lines=Coder.+Ship.+Monetiser.+Répéter.)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=400&lines=Code.+Ship.+Monetize.+Repeat.)](https://git.io/typing-svg)
