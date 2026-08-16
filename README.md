@@ -1,9 +1,8 @@
-
 # Salut, moi c'est Faust Oswald 👋
 
 ![Header](https://v3b.fal.media/files/b/0aa699fe/WXavlugQFHmwSxn1a7-2h_bFSXraV2.png)
 
-Je suis **Faust Oswald**, *Fullstack/Product Engineer* basé à Cotonou, Bénin. Développeur passionné, étudiant en dernière année à **Epitech Bénin**, et serial startup builder. Je construis des produits digitaux du concept à la monetisation : **VERSUS**, **ONLIST**, **StableVPS**, **SHEMA**, **Lydia/Hello AI**.
+Je suis **Faust Oswald**, *Fullstack/Product Engineer* basé. Développeur passionné,  après un passage à **Epitech Bénin**, et serial startup builder. Je construis des produits  du concept à la monetisation : **VERSUS**, **ONLIST**, **StableVPS**, **SHEMA** et bien plus.
 
 > "L'innovation distingue entre un leader et un suiveur." – Steve Jobs
 
@@ -12,12 +11,12 @@ Je suis **Faust Oswald**, *Fullstack/Product Engineer* basé à Cotonou, Bénin.
 ## 🎯 Qui je suis
 
 - 🇧🇯 Béninois, basé à Cotonou
-- 🎓 Étudiant en dernière année, Epitech Bénin (~3 ans)
-- 💼 Fullstack & Product Engineer : TS/JS, React/Next/Tailwind, Node/Express/Mongo, React Native/Expo/EAS
+- 🎓 Diplomé en innovation
+- 💼 Fullstack &amp; Product Engineer : TS/JS, React/Next/Tailwind, Node/Express/Mongo, React Native/Expo/EAS
 - 🛠 Aussi : C/C++, Python, Docker, infra web/VPS
 - 🚀 Projects : VERSUS, ONLIST, StableVPS, SHEMA, Lydia/Hello AI
 - 🎵 Creative technologist — contenu tech/startup/IA cinématique
-- 🌐 [faustoswald.framer.website](https://faustoswald.framer.website) — mon site principal (Framer)
+- 🌐 [faustoswald.com](faustoswald.com) — mon site principal
 
 **Contacter :** `faustfrank370@gmail.com` · WhatsApp `+229 98 36 77 53`
 
@@ -25,13 +24,13 @@ Je suis **Faust Oswald**, *Fullstack/Product Engineer* basé à Cotonou, Bénin.
 
 ## 🏗 Ce que je build
 
-| Domain | Stack | Status |
-|---|---|---|
-| **VERSUS** | ? | En développement |
-| **ONLIST** | ? | En développement |
-| **StableVPS** | infra/VPS | En développement |
-| **SHEMA** | ? | En développement |
-| **Lydia / Hello AI** | AI-native | En développement |
+
+| Domain        | Stack                    | Status           |
+| ------------- | ------------------------ | ---------------- |
+| **VERSUS**    | React Native - ExpressJS | En finalisation  |
+| **StableVPS** | infra/VPS - NextJS       | Finalisé         |
+| **SHEMA**     | Shopify - React Native   | En développement |
+
 
 ---
 
@@ -60,44 +59,21 @@ Je suis **Faust Oswald**, *Fullstack/Product Engineer* basé à Cotonou, Bénin.
 
 ---
 
-## 📁 Projets en cours
-
-### VERSUS
-> [Détails à compléter]
-
-### ONLIST
-> [Détails à compléter]
-
-### StableVPS
-> [Détails à compléter]
-
-### SHEMA
-> [Détails à compléter]
-
-### Lydia / Hello AI
-> [Détails à compléter]
-
 ---
 
 ## 📫 Me trouver
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oswaldfaust2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faust-oswald)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faustoswald)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faustoswald)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/22998367753)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 ---
 
 ## 📊 Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=oswald-faust&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
-## 🎵 Écouter en ce moment
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
 
 ---
 
@@ -108,21 +84,9 @@ Je suis **Faust Oswald**, *Fullstack/Product Engineer* basé à Cotonou, Bénin.
 - Analyser : problème / client / concurrence / distribution / prix / légal / marges / MVP / défensibilité → chiffrer → BUILD/TEST FIRST → PIVOT/SKIP
 - Interface : sombre premium iOS/glass
 - Modèles IA : open source permissifs (Apache 2.0 / MIT), famille Qwen favorite
-- Jurisdiction : Bénin — loi 2017-21 + CNPD, devises €
-
----
-
-## 📄 Mentions légales & données
-
-- **Site** : faustoswald.framer.website (Framer)
-- **Analytics** : Umami (cloud.umami.is) — script intégré en Custom Code → Head, ID `12fbec6e-3f39-4525-95b3-7487ca0597f6`
-- **Tracking sortant** : clics WhatsApp, Cal.com, mailto — script custom Footer
-- **Cookies** : pas de bandeau si Umami mode simple
-- **Contact** : faustfrank370@gmail.com
-- **WhatsApp** : +229 98 36 77 53
 
 ---
 
 *Ce README est maintenu par Faust Oswald. Dernière mise à jour : août 2026.*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=400&lines=Coder.+Ship.+Monetiser.+Répéter.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=400&lines=Coder.+Ship.+Monetiser.+Répéter.)
