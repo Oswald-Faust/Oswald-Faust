@@ -10,7 +10,6 @@ I'm **Faust Oswald**, a *Fullstack/Product Engineer* based in Cotonou, Benin. Pa
 
 ## 🎯 Who I am
 
-- 🇧🇯 Beninese, based in Cotonou
 - 🎓 Innovation graduate
 - 💼 Fullstack & Product Engineer: TS/JS, React/Next/Tailwind, Node/Express/Mongo, React Native/Expo/EAS
 - 🛠 Also: C/C++, Python, Docker, web infra/VPS
